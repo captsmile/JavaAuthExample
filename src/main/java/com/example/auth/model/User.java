@@ -1,6 +1,5 @@
 package com.example.auth.model;
 
-import javax.management.relation.Role;
 import javax.persistence.*;
 import java.util.Set;
 
